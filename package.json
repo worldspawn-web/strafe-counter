@@ -1,0 +1,25 @@
+{
+  "name": "strafe-counter",
+  "version": "0.0.14",
+  "description": "Strafes counter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/worldspawn-web/strafe-counter.git"
+  },
+  "author": "Worldspawn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/worldspawn-web/strafe-counter/issues"
+  },
+  "homepage": "https://github.com/worldspawn-web/strafe-counter#readme",
+  "dependencies": {
+    "keyboard": "^0.0.1",
+    "keypress": "^0.2.1",
+    "node-global-key-listener": "^0.1.1",
+    "robotjs": "^0.6.0"
+  }
+}
